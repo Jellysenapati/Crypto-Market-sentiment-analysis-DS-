@@ -1,0 +1,2 @@
+"""Crypto sentiment analysis package."""
+
